@@ -1,0 +1,13 @@
+・前提条件
+Pythonが3.9以上
+
+・環境構築
+1.下記を実行する
+pip install -q -U google-generativeai
+pip install Pillow
+
+2.API KEYはGoogle AI StudioのGet API keyで取得する
+
+・注意点
+WindowsのGit Bash等で文字化けするときは下記を実行する
+export PYTHONIOENCODING=utf8
