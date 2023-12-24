@@ -1,3 +1,4 @@
+https://ai.google.dev/tutorials/python_quickstart
 ・前提条件
 Pythonが3.9以上
 
